@@ -5,7 +5,7 @@ Vue CLI plugin for Storybook
 ## Installation
 
 ```
-$ npm install --save-dev git+ssh://git@github.com:node-ex/vue-cli-plugin-storybook.git#v0.6.2
+$ npm install --save-dev git+ssh://git@github.com:node-ex/vue-cli-plugin-storybook.git#v0.6.3
 $ vue add storybook
 ```
 
